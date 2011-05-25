@@ -1,0 +1,15 @@
+MyLogger
+========
+
+Russell Miller 5/25/11
+
+Changes:
+--------
+0.6 - First release. Untested! Features are all implemented, just need to 
+make sure there are no bugs or typos.
+
+------------------------------------------------------------------------------
+
+About:
+------
+Simple wrapper to reduce the amount of overhead in doing simple logging.
